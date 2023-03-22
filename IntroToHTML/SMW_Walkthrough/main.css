@@ -1,0 +1,95 @@
+/* body -> home base of entire css page (global) */
+body{
+    /* how do I know? */
+ background-color: rgb(251,60,54); 
+ margin:0;
+ background-image:  url('https://mario.wiki.gallery/images/f/fb/Sticker_Mushroom_-_Mario_Party_Superstars.png');
+ font-family: 'Bangers', cursive;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px solid black;
+    /* spacing w/n the box. In the inspector its green (scroll down to the bottom) */
+    padding:3; 
+    /* rgba red, green, blue, and alpha-channel */
+    background-color: rgb(255,255,255,0.907);
+}
+
+nav a{
+    color: black;
+    font-size: 2em;
+}
+
+nav span img{
+    width: 30px;
+    height:30px;
+}
+
+#intro{
+    margin-top: 1em;
+    border: 2px solid black;
+    border-radius: 1em;
+    padding: 1em;
+    background-color: rgb(255,255,255,0.907);
+}
+
+#intro #openingP{
+    bottom: 30px;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+
+.characterContainer{
+    position: relative;
+     margin-top: 150px;
+     background-color: rgb(255,255,255,0.922);
+     width: 30em;
+     height: 32em;
+     border-radius: 2em;
+     border: 3px solid black;
+}
+
+.characterContainer ul li img{
+    width: 200px; 
+    height: 200px;
+}
+
+.characterContainer ul :nth-child(2){
+    position: relative; 
+    left: 200px; 
+    bottom: 200px;
+}
+
+.characterContainer ul :nth-child(3){
+    position: relative; 
+    /* left: 200px;  */
+    bottom: 201px;
+}
+
+.characterContainer ul :nth-child(4){
+    position: relative; 
+    left: 200px; 
+    bottom: 410px;
+}
+
+.customerContainer{
+    padding:3em;
+    position: relative;
+    background-color: rgb(255,255,255,0.922);
+    width: 15em;
+    height: 15em;
+    border-radius: 2em;
+    margin-top: 15em;
+    left: 3em;
+    border: 3px solid black;
+}
+
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+}
