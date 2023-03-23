@@ -1,0 +1,176 @@
+What is it?
+Flexbox is a one-dimensional layout method for laying out items
+in rows or columns
+
+Allows us to distribute space dynamically across elements of
+an unknown size, hence the word 'flex'
+
+
+The flex model 
+
+Default:
+------------------------------------
+|      ^                           |
+|      |                           |
+|      |    Main Axis(x)           |
+|  <---|----------------->         |
+|      | Cross Axis(y)             |
+|      v                           |
+------------------------------------
+
+
+Flex Direction => changes the defalt Main and Cross Axis
+flex-direction : row-reverse;
+
+------------------------------------
+|      ^                           |
+|      |                           |
+|      |   Main Axis(-x)           |
+|  <---|----------------->         |
+|      |   Cross Axis(-y)          |
+|      v                           |
+------------------------------------
+
+Flex Direction => changes the defalt Main and Cross Axis
+flex-direction : column;
+This puts the Main axis on the Y coordinate plane
+This puts the Cross axis on the X coordinate plane
+
+------------------------------------
+|      ^                           |
+|      |                           |
+|      |   Cross Axis(x)           |
+|  <---|----------------->         |
+|      | Main Axis(y)              |
+|      v                           |
+------------------------------------
+
+flex-direction : column-reverse; (things are flipped)
+This puts the Main axis on the -Y coordinate plane
+This puts the Cross axis on the -X coordinate plane
+
+------------------------------------
+|      ^                           |
+|      |                           |
+|      |   Cross Axis(-x)          |
+|  <---|----------------->         |
+|      | Main Axis(-y)             |
+|      v                           |
+------------------------------------
+
+Justify Content (Default Main/Cross axis) 
+Justify-content: flex-start; **this will start on the left**
+
+Justify-content: flex-end;  **this will start from the right**
+
+Justify-content: center;  ** this will center everything**
+
+Justify-content: space-between; ** Puts Spacing between every elements
+                                   within the container**
+
+Justify-content: space-around   ** Puts spacing between every elements
+                                   but 'around' all sides**
+
+Justify-content: space-evenly   ** Puts spacing between every elements
+                                   but 'around' all sides and makes sure that
+                                   sizing is equal on all sides**
+
+^ these all are 'Main Axis focused' 
+Note: the Main axis is not always on the X coordinate plane
+
+========== Flex wrap ================
+Determins if our elements will 'wrap' around the 'Main Axis'
+but this is based on the 'Cross Axis'
+
+===== Align Items (This is Cross Axis Focused) =====
+align-items: flex-start;
+
+align-Content: space-between
+align-Content: space-Around
+align-Content: space-evenly
+align-Content: flex-start
+align-Content: flex-end
+align-Content: center
+
+align-self: flex-end; ->makes changes to a single individual item
+w/n a flex-container
+
+
+===== Flex Basis =====
+Defines initial size of an element before additional space is 
+made
+
+==Flex Grow ==
+Controls the amount of available space an element takes up
+
+== Flex shrink ==
+If any items are larger than the container then they will 'shrink'
+to size by the 'flex-shrink'
+
+
+=== Flex ===
+/*One value, unitless number: flex-grow*/
+flex: 2;
+
+/*One value, width/height: flex-basis*/
+flex:10em;
+flex:30%;
+flex: min-content;
+
+/* Two values: flex-grow | flex-basis */
+flex: 1 30px;(you have to use something like pixels)
+
+/* Two values: flex-grow | flex-shrink*/
+flex: 2 2;
+
+/* Three values: flex-grow | flex-shrink | flex-basis*/
+flex: 2 2 10%;
+
+== Responsive Design ==
+Media Queries
+we can modify our application(web site) by the 
+screen width or device type via CSS
+
+@media (max-width: 500px){
+    .item{
+        display:none
+    }
+
+    .div item2{
+        width:80%
+    }
+}
+
+@media (min-width:30em) and (orientation: landscape){
+    #container{
+        flex-direction:column;
+        Justify-content:center;
+    }
+}
+
+//bootstrap media setup (reference)
+*USING min-width
+//small devices (landscape phones 576px and up)
+@media (min-width:576px) {...}
+
+//medium devices (tables 768px and up)
+@media (min-width: 768px and up){...}
+
+//large devices (tables 992 and up)
+@media (min-width: 992px and up){...}
+
+//Extra large devices (tables 1200px and up)
+@media (min-width: 1200px and up){...}
+
+*USING max-width
+//small devices (landscape phones 576px and up)
+@media (max-width:576px) {...}
+
+//medium devices (tables 768px and up)
+@media (max-width: 768px and up){...}
+
+//large devices (tables 992 and up)
+@media (max-width: 992px and up){...}
+
+//Extra large devices (tables 1200px and up)
+@media (max-width: 1200px and up){...}
