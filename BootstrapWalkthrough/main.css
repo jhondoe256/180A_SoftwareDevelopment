@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://perspectiveinaction.com/wp-content/uploads/2018/05/CandyShop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    box-shadow: 10px 5px 15px black;
+}
+
+.container{
+    margin-top: 3em;
+    width:95%;
+    height: 100%;
+}
+
+.row{
+    margin:0 auto;
+    /* border: 2px solid rgb(245, 0, 0); */
+    background-color: rgba(109, 109, 117, 0.367);
+}
+
+.accordion{
+    width: 18em;
+    background-color: rgba((109, 109, 117, .78));
+}
+
+.candCards{
+    margin-left: 120px;
+    background-color: rgba((109, 109, 117, .78));
+}
+
+.sTier{
+    margin-top: 1em;
+}
+
+.card{
+ box-shadow: 10px 5px 15px black;
+}
+
+/* .card:hover{
+    display: none;
+} */
+
+.card img{
+    width: 275px;
+    height: 300px;
+  
+}
