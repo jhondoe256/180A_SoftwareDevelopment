@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\bin\Debug\net7.0\06_Terinaries.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\bin\Debug\net7.0\06_Terinaries.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\bin\Debug\net7.0\06_Terinaries.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\bin\Debug\net7.0\06_Terinaries.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\bin\Debug\net7.0\06_Terinaries.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\refint\06_Terinaries.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\06_Terinaries.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\06_Terinaries\obj\Debug\net7.0\ref\06_Terinaries.dll

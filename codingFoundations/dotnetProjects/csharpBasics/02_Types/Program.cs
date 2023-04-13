@@ -3,16 +3,16 @@
 //? Value type  (structs) -> immutable (the literal value cannot be changed!!), the value of 4 will ALLWAYS BE 4
 //? default to 0. 
 
-//bool -> (boolean) true/false
+//* bool -> (boolean) true/false
 // our variables will be 'camelCasedToPerfection'
 bool isLoggenIn = true;
 System.Console.WriteLine(isLoggenIn);
 
-//integers, or int -> these are whole numbers
+//* integers, or int -> these are whole numbers
 int age= 42;
 System.Console.WriteLine(age);
 
-//decimal -> very percise (money)
+//* decimal -> very percise (money)
 //we need a suffix after the value (m,M)
 decimal accountBalance = 9000.01m;
 decimal accountBalance2 = 9000.01M;
@@ -56,7 +56,7 @@ Console.WriteLine(1.2578907289045789789789789787897f);
 Console.WriteLine(1.2578907289045789789789789787897d);
 Console.WriteLine(1.2578907289045789789789789787897m);
 
-//Enums 
+//* Enums 
 //use our pastry types
 PastryType myPastry = PastryType.Croissant;
 System.Console.WriteLine(myPastry);
@@ -65,7 +65,7 @@ System.Console.WriteLine((int)myPastry);
 PastryType anoterPType = PastryType.Cupcake;
 System.Console.WriteLine(anoterPType);
 
-//Dates...
+//* Dates...
 DateTime today = DateTime.Today;
 System.Console.WriteLine(today);
 

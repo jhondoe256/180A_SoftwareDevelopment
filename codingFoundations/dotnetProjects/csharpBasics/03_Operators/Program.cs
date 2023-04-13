@@ -4,13 +4,16 @@
 decimal bankAccount = 5000.00m;
 decimal deposit = 100.00m;
 
-decimal todayTotalValue = bankAccount + deposit;
-System.Console.WriteLine(todayTotalValue);
+System.Console.WriteLine(bankAccount+=deposit);
+
+// decimal todayTotalValue = bankAccount + deposit;
+// System.Console.WriteLine(todayTotalValue);
 
 //subtraction (-)
 decimal phoneBill = 120.00m;
-decimal grandTodayTotal = todayTotalValue - phoneBill;
-System.Console.WriteLine(grandTodayTotal);
+// decimal grandTodayTotal = todayTotalValue - phoneBill;
+// System.Console.WriteLine(grandTodayTotal);
+System.Console.WriteLine(bankAccount-=phoneBill);  // bankAccount = bankAccount - phoneBill;
 
 //multiplication (*)
 decimal multValue = 3 * 3;

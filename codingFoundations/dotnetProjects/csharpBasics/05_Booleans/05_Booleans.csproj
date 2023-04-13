@@ -6,6 +6,7 @@
     <RootNamespace>_05_Booleans</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <noWarn>CS0219</noWarn>
   </PropertyGroup>
 
 </Project>
