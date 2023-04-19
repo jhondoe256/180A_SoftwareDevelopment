@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\bin\Debug\net7.0\LoopChallenges.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\refint\LoopChallenges.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\LoopChallenges.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\LoopChallenges\obj\Debug\net7.0\ref\LoopChallenges.dll

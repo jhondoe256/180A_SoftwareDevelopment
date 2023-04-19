@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\bin\Debug\net7.0\ForEach.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\bin\Debug\net7.0\ForEach.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\bin\Debug\net7.0\ForEach.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\bin\Debug\net7.0\ForEach.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\bin\Debug\net7.0\ForEach.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\refint\ForEach.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ForEach.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07_Loops\ForEach\obj\Debug\net7.0\ref\ForEach.dll

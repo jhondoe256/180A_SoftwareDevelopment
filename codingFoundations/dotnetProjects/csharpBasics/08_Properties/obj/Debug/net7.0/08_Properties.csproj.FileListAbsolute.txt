@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\bin\Debug\net7.0\08_Properties.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\bin\Debug\net7.0\08_Properties.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\bin\Debug\net7.0\08_Properties.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\bin\Debug\net7.0\08_Properties.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\bin\Debug\net7.0\08_Properties.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\refint\08_Properties.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\08_Properties.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Properties\obj\Debug\net7.0\ref\08_Properties.dll

@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\bin\Debug\net7.0\08_Methods_Intro.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\bin\Debug\net7.0\08_Methods_Intro.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\bin\Debug\net7.0\08_Methods_Intro.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\bin\Debug\net7.0\08_Methods_Intro.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\bin\Debug\net7.0\08_Methods_Intro.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\refint\08_Methods_Intro.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\08_Methods_Intro.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\08_Methods_Intro\obj\Debug\net7.0\ref\08_Methods_Intro.dll

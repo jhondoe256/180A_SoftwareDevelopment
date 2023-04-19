@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\bin\Debug\net7.0\07A_Collections.exe
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\bin\Debug\net7.0\07A_Collections.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\bin\Debug\net7.0\07A_Collections.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\bin\Debug\net7.0\07A_Collections.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\bin\Debug\net7.0\07A_Collections.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\refint\07A_Collections.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\07A_Collections.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\07A_Collections\obj\Debug\net7.0\ref\07A_Collections.dll
