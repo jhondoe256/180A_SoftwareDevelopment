@@ -1,0 +1,15 @@
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\bin\Debug\net7.0\10_Interfaces.exe
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\bin\Debug\net7.0\10_Interfaces.deps.json
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\bin\Debug\net7.0\10_Interfaces.runtimeconfig.json
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\bin\Debug\net7.0\10_Interfaces.dll
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\bin\Debug\net7.0\10_Interfaces.pdb
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.csproj.AssemblyReference.cache
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.AssemblyInfoInputs.cache
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.AssemblyInfo.cs
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.csproj.CoreCompileInputs.cache
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.dll
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\refint\10_Interfaces.dll
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.pdb
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.genruntimeconfig.cache
+c:\ElevenFiftyProjects\codingFoundations\dotnetProjects\csharpBasics\10_Interfaces\obj\Debug\net7.0\ref\10_Interfaces.dll
